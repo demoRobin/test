@@ -1,9 +1,2 @@
 # test
-dfbabfafb
-bbf
-fb
-fbafb
-fgb
-fsgn
-sfng
-n
+Ceci est un fichier sur le GIT.
