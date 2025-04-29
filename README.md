@@ -1,5 +1,5 @@
-# test
-Ceci est un fichier sur le GIT.
+'# test'
+'Ceci est un fichier sur le GIT.'
 
 i = 1
 while i < 6:
